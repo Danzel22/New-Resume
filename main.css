@@ -1,0 +1,43 @@
+h1 {
+    margin-left: 690px;
+    border: plum solid 1px;
+    margin-right: 800px;
+    padding-left: 4px;
+    color: white;
+    
+}
+body{ 
+    background-image: url("https://images.unsplash.com/photo-1449034446853-66c86144b0ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+    background-size: 1960px 1200px;
+    background-repeat: no-repeat;
+    
+}
+
+.contact {
+    margin-left: 600px;
+    color: white;
+}
+
+.intro{ 
+    margin-left: 50px;
+    margin-right: 1300px;
+    color: white;
+}
+
+.experience{
+    margin-left: 50px;
+    margin-right:1300px;
+    color: white;
+}
+
+.education{
+    margin-left: 1000px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.add{
+    margin-left: 1000px;
+    margin-top: 1000px;
+    color: white;
+}
