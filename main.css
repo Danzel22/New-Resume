@@ -1,6 +1,6 @@
 h1 {
     margin-left: 690px;
-    border: plum solid 1px;
+    background: linear-gradient(blue, cyan, plum, pink) 1px;
     margin-right: 800px;
     padding-left: 4px;
     color: white;
@@ -22,6 +22,7 @@ body{
     margin-left: 50px;
     margin-right: 1300px;
     color: white;
+    
 }
 
 .experience{
@@ -41,3 +42,4 @@ body{
     margin-top: 10px;
     color: white;
 }
+
